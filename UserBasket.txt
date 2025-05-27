@@ -1,0 +1,4 @@
+user: tina apple , price 10$, 1.
+user: tina apple , price 20$, 2.
+user: tina apple , price 10$, 1.
+user: tina kiwi , price 12$, 2.
